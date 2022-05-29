@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<h2>What is healthy weight loss?
+Senior couple jogging in a park
+It’s natural for anyone trying to lose weight to want to lose it very quickly. But people who lose weight gradually and steadily (about 1 to 2 pounds per week) are more successful at keeping weight off. Healthy weight loss isn’t just about a “diet” or “program”. It’s about an ongoing lifestyle that includes healthy eating patterns and regular physical activity.
+
+Once you’ve achieved a healthy weight, rely on healthy eating and physical activity to help you keep the weight off over the long term.
+
+Losing weight is not easy, and it takes commitment. But if you’re ready to get started, we’ve got a step-by-step guide to help get you on the road to weight loss and better health.</h2>
+<img src="weightloss.jpg"  width="460" height="345">
+
+</body>
+</html>
